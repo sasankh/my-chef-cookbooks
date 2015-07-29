@@ -1,0 +1,7 @@
+name 'meanCRUD'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures meanCRUD'
+long_description 'Installs/Configures meanCRUD'
+version '0.1.0'
